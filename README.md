@@ -11,5 +11,9 @@ The goal of this project is to showcase a complete machine learning workflow, fr
 -   **Interactive Web UI**: A clean and simple Gradio interface for real-time message classification.
 -   **Comprehensive Pipeline**: The code demonstrates a full machine learning pipeline, making it easy to understand and adapt.
 
+This is the gradio interface what a look like in notebook
+<img width="951" height="441" alt="image" src="https://github.com/user-attachments/assets/11d9554b-8b29-4ed2-bcef-c88f7d4048cf" />
+
+
 
 This project is the part of Freecodecamp assignment
